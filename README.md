@@ -33,7 +33,7 @@ wp
 
 ## Methods availables
 
-> All methods parameters can be found on ***(API documentation)[http://v2.wp-api.org/reference/]***
+> All methods parameters can be found on ***[API documentation](http://v2.wp-api.org/reference/)***
 
 ### Posts
 

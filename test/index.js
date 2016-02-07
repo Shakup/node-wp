@@ -1,8 +1,8 @@
 'use strict'
 
 const 
-	NodeWP   = require( '../index' )
-	, wp     = new NodeWP( 'http://wordpress.dev/wp-json/wp/v2' )
+	NodeWP = require( '../index' )
+	, wp   = new NodeWP( 'http://wordpress.dev/wp-json/wp/v2' )
 
 
 function output (json) {
@@ -13,7 +13,6 @@ function output (json) {
 	
 	json.forEach( (item) => console.log(item) )
 }
-
 
 wp
 	.posts({

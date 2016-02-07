@@ -2,7 +2,6 @@
 
 const request = require('request')
 
-
 class NodeWP {
 
 	/**
